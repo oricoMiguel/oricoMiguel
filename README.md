@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Estudante de Análise e Desenvolvimento de Sistemas</b> • Mauá/SP 🇧🇷<br>
-  Em busca da minha primeira oportunidade de estágio em TI 🚀
+  Em busca da minha primeira oportunidade em TI 🚀
 </p>
 
 <p align="center">
