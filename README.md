@@ -59,7 +59,7 @@
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [**Mawa**](https://github.com/oricoMiguel/Mawa) | Site de um salão real, projeto final do 1º semestre | HTML, CSS, JavaScript |
-| [**Mobile**](https://github.com/oricoMiguel/Mobile) | App mobile com navegação por abas, back-end e chatbot | Java / React Native |
+| [**Mobile**](https://github.com/oricoMiguel/Mobile) | App mobile com navegação por abas, back-end e chatbot | Java |
 | [**Kanban-Mobile**](https://github.com/oricoMiguel/Kanban-Mobile) | Aplicativo de quadro Kanban em tempo real para mobile | Java |
 | [**Tela_Docentes**](https://github.com/oricoMiguel/Tela_Docentes) | Tela de docentes com foco em layout | CSS |
 | [**Meu-primeiro-site**](https://github.com/oricoMiguel/Meu-primeiro-site) | Onde tudo começou 😄 | HTML |
