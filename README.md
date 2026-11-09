@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/SENAI-Mauá-E30613?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Formatura-2026-2ea043?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Buscando-Estágio_em_TI-0A66C2?style=for-the-badge" />
 </p>
 
 ---
