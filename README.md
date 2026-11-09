@@ -1,16 +1,94 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Miguel 👋</h1>
 
-<!--
-**oricoMiguel/oricoMiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Estudante de Análise e Desenvolvimento de Sistemas</b> • Mauá/SP 🇧🇷<br>
+  Em busca da minha primeira oportunidade de estágio em TI 🚀
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/SENAI-Mauá-E30613?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Formatura-2026-2ea043?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Buscando-Estágio_em_TI-0A66C2?style=for-the-badge" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Sobre mim
+
+- 🎓 Cursando o último semestre de **ADS** na Escola SENAI Armando de Arruda Pereira
+- 🔭 Desenvolvo projetos **web**, **mobile** e de **IoT**
+- 🌱 Estudando banco de dados, padrões de projeto e computação em nuvem
+- 📚 Leio documentação técnica em inglês
+- 💬 Bora trocar uma ideia sobre tecnologia!
+
+---
+
+## 🛠️ Tecnologias
+
+**Linguagens e Front-end**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+**Banco de Dados, Infra e IoT**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_IoT_Core-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Arduino](https://img.shields.io/badge/ESP32-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [**Mawa**](https://github.com/oricoMiguel/Mawa) | Site de um salão real, projeto final do 1º semestre | HTML, CSS, JavaScript |
+| [**Mobile**](https://github.com/oricoMiguel/Mobile) | App mobile com navegação por abas, carrossel e câmera | Java / React Native |
+| [**Kanban-Mobile**](https://github.com/oricoMiguel/Kanban-Mobile) | Aplicativo de quadro Kanban para mobile | Java |
+| [**Tela_Docentes**](https://github.com/oricoMiguel/Tela_Docentes) | Tela de docentes com foco em layout | CSS |
+| [**Meu-primeiro-site**](https://github.com/oricoMiguel/Meu-primeiro-site) | Onde tudo começou 😄 | HTML |
+
+> 💡 Ajuste as descrições de cada projeto conforme o que ele realmente faz.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=oricoMiguel&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oricoMiguel&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Vamos conversar?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:SEU-EMAIL@exemplo.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>"Todo código é um aprendizado." ✨</i></p>
