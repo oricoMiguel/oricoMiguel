@@ -69,24 +69,13 @@
 
 > 💡 Ajuste as descrições de cada projeto conforme o que ele realmente faz.
 
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=oricoMiguel&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oricoMiguel&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Vamos conversar?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO/">
+  <a href="https://www.linkedin.com/in/miguel-orico/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU-EMAIL@exemplo.com">
+  <a href="mailto:miguell.oricoo@exemplo.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
