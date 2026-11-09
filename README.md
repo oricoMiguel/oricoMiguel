@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SENAI-Mauá-E30613?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SENAI-São Caetano-E30613?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Formatura-2026-2ea043?style=for-the-badge" />
 </p>
 
