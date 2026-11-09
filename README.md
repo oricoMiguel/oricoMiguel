@@ -67,7 +67,6 @@
 | [**Tela_Docentes**](https://github.com/oricoMiguel/Tela_Docentes) | Tela de docentes com foco em layout | CSS |
 | [**Meu-primeiro-site**](https://github.com/oricoMiguel/Meu-primeiro-site) | Onde tudo começou 😄 | HTML |
 
-> 💡 Ajuste as descrições de cada projeto conforme o que ele realmente faz.
 
 ## 📫 Vamos conversar?
 
@@ -80,4 +79,4 @@
   </a>
 </p>
 
-<p align="center"><i>"Todo código é um aprendizado." ✨</i></p>
+
